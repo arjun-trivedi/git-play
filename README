@@ -3,4 +3,13 @@ This repository will be used to "play" with git as and when I need to excercise 
 Branches
 =======
 + master [10-01-24]
+  + master_test-new-feature [10-01-14]
+    + Created this Branch to test how Merge works.
+    + Files modified:
+      + code.C
+      + README
+    + Files removed:
+      + script2
+    + Files added:
+      + code.h
 
