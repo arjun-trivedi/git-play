@@ -6,4 +6,5 @@ int main(){
   cout << "This line was added as a new feature that was developed in Branch 'master_test-new-feature' and after testing was merged into Branch 'master'" << endl;
   cout <<"Line added in Branch iss1"
   cout <<"Testing multiline commit"<<endl;
+  cout <<"Testing multiline commit, try 2"<<endl;
 }
